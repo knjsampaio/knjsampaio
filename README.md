@@ -1,6 +1,6 @@
 <h1> Olá! Eu sou Keyve Sampaio! </h1>
 
-- 🌱 Estou estudando HTML/CSS/Javascript além de elementos back-end como banco de dados MySQL e linguagem de programação PHP, Java e C#.
+- 🌱 Estou estudando HTML, CSS, Javascript, Typescript, React, C#, PHP e MySQL.
 - 😄 Pronouns: ele/dele.
 
 <div align="center">
